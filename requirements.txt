@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+requests
+beautifulsoup4
+pyautogui
+plyer
+pygame
+speedtest-cli
+keyboard
